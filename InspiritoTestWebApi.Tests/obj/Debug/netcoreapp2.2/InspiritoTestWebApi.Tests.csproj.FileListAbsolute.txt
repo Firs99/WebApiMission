@@ -1,0 +1,33 @@
+C:\Users\User\source\repos\InspiritoTestWebApi.Tests\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.dll
+C:\Users\User\source\repos\InspiritoTestWebApi.Tests\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.pdb
+C:\Users\User\source\repos\InspiritoTestWebApi.Tests\bin\Debug\netcoreapp2.2\nunit.engine.netstandard.dll
+C:\Users\User\source\repos\InspiritoTestWebApi.Tests\bin\Debug\netcoreapp2.2\InspiritoTestWebApi.Tests.deps.json
+C:\Users\User\source\repos\InspiritoTestWebApi.Tests\bin\Debug\netcoreapp2.2\InspiritoTestWebApi.Tests.runtimeconfig.json
+C:\Users\User\source\repos\InspiritoTestWebApi.Tests\bin\Debug\netcoreapp2.2\InspiritoTestWebApi.Tests.runtimeconfig.dev.json
+C:\Users\User\source\repos\InspiritoTestWebApi.Tests\bin\Debug\netcoreapp2.2\InspiritoTestWebApi.Tests.dll
+C:\Users\User\source\repos\InspiritoTestWebApi.Tests\obj\Debug\netcoreapp2.2\InspiritoTestWebApi.Tests.csprojAssemblyReference.cache
+C:\Users\User\source\repos\InspiritoTestWebApi.Tests\obj\Debug\netcoreapp2.2\InspiritoTestWebApi.Tests.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\InspiritoTestWebApi.Tests\obj\Debug\netcoreapp2.2\InspiritoTestWebApi.Tests.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\InspiritoTestWebApi.Tests\obj\Debug\netcoreapp2.2\InspiritoTestWebApi.Tests.AssemblyInfo.cs
+C:\Users\User\source\repos\InspiritoTestWebApi.Tests\bin\Debug\netcoreapp2.2\InspiritoTestWebApi.dll
+C:\Users\User\source\repos\InspiritoTestWebApi.Tests\bin\Debug\netcoreapp2.2\InspiritoTestWebApi.pdb
+C:\Users\User\source\repos\InspiritoTestWebApi.Tests\bin\Debug\netcoreapp2.2\InspiritoTestWebApi.xml
+C:\Users\User\source\repos\InspiritoTestWebApi.Tests\obj\Debug\netcoreapp2.2\InspiritoTestWebApi.Tests.csproj.CopyComplete
+C:\Users\User\Documents\Desktop\repos buff repositorys from VS2019 (Delete after test)\InspiritoTestWebApi.Tests\obj\Debug\netcoreapp2.2\InspiritoTestWebApi.Tests.csprojAssemblyReference.cache
+C:\Users\User\Documents\Desktop\repos buff repositorys from VS2019 (Delete after test)\InspiritoTestWebApi.Tests\obj\Debug\netcoreapp2.2\InspiritoTestWebApi.Tests.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Desktop\repos buff repositorys from VS2019 (Delete after test)\InspiritoTestWebApi.Tests\obj\Debug\netcoreapp2.2\InspiritoTestWebApi.Tests.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Desktop\repos buff repositorys from VS2019 (Delete after test)\InspiritoTestWebApi.Tests\obj\Debug\netcoreapp2.2\InspiritoTestWebApi.Tests.AssemblyInfo.cs
+C:\Users\User\Documents\Desktop\repos buff repositorys from VS2019 (Delete after test)\InspiritoTestWebApi.Tests\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.dll
+C:\Users\User\Documents\Desktop\repos buff repositorys from VS2019 (Delete after test)\InspiritoTestWebApi.Tests\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.pdb
+C:\Users\User\Documents\Desktop\repos buff repositorys from VS2019 (Delete after test)\InspiritoTestWebApi.Tests\bin\Debug\netcoreapp2.2\nunit.engine.netstandard.dll
+C:\Users\User\Documents\Desktop\repos buff repositorys from VS2019 (Delete after test)\InspiritoTestWebApi.Tests\bin\Debug\netcoreapp2.2\InspiritoTestWebApi.Tests.deps.json
+C:\Users\User\Documents\Desktop\repos buff repositorys from VS2019 (Delete after test)\InspiritoTestWebApi.Tests\bin\Debug\netcoreapp2.2\InspiritoTestWebApi.Tests.runtimeconfig.json
+C:\Users\User\Documents\Desktop\repos buff repositorys from VS2019 (Delete after test)\InspiritoTestWebApi.Tests\bin\Debug\netcoreapp2.2\InspiritoTestWebApi.Tests.runtimeconfig.dev.json
+C:\Users\User\Documents\Desktop\repos buff repositorys from VS2019 (Delete after test)\InspiritoTestWebApi.Tests\bin\Debug\netcoreapp2.2\InspiritoTestWebApi.Tests.dll
+C:\Users\User\Documents\Desktop\repos buff repositorys from VS2019 (Delete after test)\InspiritoTestWebApi.Tests\bin\Debug\netcoreapp2.2\InspiritoTestWebApi.Tests.pdb
+C:\Users\User\Documents\Desktop\repos buff repositorys from VS2019 (Delete after test)\InspiritoTestWebApi.Tests\bin\Debug\netcoreapp2.2\InspiritoTestWebApi.dll
+C:\Users\User\Documents\Desktop\repos buff repositorys from VS2019 (Delete after test)\InspiritoTestWebApi.Tests\bin\Debug\netcoreapp2.2\InspiritoTestWebApi.pdb
+C:\Users\User\Documents\Desktop\repos buff repositorys from VS2019 (Delete after test)\InspiritoTestWebApi.Tests\bin\Debug\netcoreapp2.2\InspiritoTestWebApi.xml
+C:\Users\User\Documents\Desktop\repos buff repositorys from VS2019 (Delete after test)\InspiritoTestWebApi.Tests\obj\Debug\netcoreapp2.2\InspiritoTestWebApi.Tests.csproj.CopyComplete
+C:\Users\User\Documents\Desktop\repos buff repositorys from VS2019 (Delete after test)\InspiritoTestWebApi.Tests\obj\Debug\netcoreapp2.2\InspiritoTestWebApi.Tests.dll
+C:\Users\User\Documents\Desktop\repos buff repositorys from VS2019 (Delete after test)\InspiritoTestWebApi.Tests\obj\Debug\netcoreapp2.2\InspiritoTestWebApi.Tests.pdb
